@@ -1,7 +1,6 @@
 import { personal } from '@content';
 import { ReactNode } from 'react';
 import { Heading } from 'src/components/heading/heading';
-import PDFDownloadButton from 'src/components/pdf/pdf-download-button';
 import { ThemeToggle } from 'src/components/theme-toggle/theme-toggle';
 import { fullName } from 'src/helpers/utilities';
 
@@ -16,7 +15,7 @@ export default function Header(): ReactNode {
               {personal.title}
             </Heading>
           </div>
-          
+
           <ThemeToggle
             buttonTextVisible={false}
             labelButton="Select theme"
