@@ -16,7 +16,7 @@ export default function Header(): ReactNode {
               {personal.title}
             </Heading>
           </div>
-          {/* <PDFDownloadButton /> */}
+          
           <ThemeToggle
             buttonTextVisible={false}
             labelButton="Select theme"
