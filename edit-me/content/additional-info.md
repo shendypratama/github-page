@@ -1,7 +1,6 @@
 ---
-title: Hobbies & Interests
+title: Hobby 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+Hoby saya adalah bermain Futsal dan game.Bermain Futsal adalah hby saya yang paling sering dilakukan karen dapat menjaga kesehatan tubuh untuk game saya lebih kurang di sibukan hanya untuk kesenangan saja 
 
-All Markdown files will be rendered as rich text, so you can include features such as [links](#).

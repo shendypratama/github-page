@@ -15,7 +15,7 @@ export default function Page(): ReactNode {
         <Skills />
       </div>
 
-      <Professional />
+      {/* <Professional /> */}
       <Achievements />
       <AdditionalInfo />
     </div>
