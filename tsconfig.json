@@ -46,10 +46,11 @@
     "node_modules"
   ],
   "include": [
-    "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
+    ".contentlayer/generated",
     ".next/types/**/*.ts",
-    ".contentlayer/generated"
+    "next-env.d.ts",
+    "dist/types/**/*.ts"
   ]
 }
