@@ -7,7 +7,7 @@
 .yarn
 .yarnrc.yml
 .npmrc
-package-lock*
+#package-lock*
 yarn.lock
 pnpm-lock*
 
